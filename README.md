@@ -1,6 +1,6 @@
 ---
 
-### 안녕하세요👋
+## 안녕하세요👋
 ### 기술과 사용자 경험의 접점에서 **유기적인 가치를 창출**하는 개발자, **Mr. Cho**입니다  
 
 ---
@@ -20,7 +20,23 @@
 
 ---
 
+## Project
+- [bukjack](https://github.com/krgh23/Bookjuk_EC2)
+- [Semi](https://github.com/krgh23/SemiA-Public)
 
+---
+
+## Study
+- [Front](https://github.com/krgh23/front_lec.git)
+- [Java](https://github.com/krgh23/java_lec.git)
+- [MySQL](https://github.com/krgh23/mysql_lec.git)
+- [SpringFramework](https://github.com/krgh23/springmvc_lec.git)
+- [SpringBoot](https://github.com/krgh23/springBoot.git)
+- [React](https://github.com/krgh23/react_lec.git)
+- [Docker](https://github.com/krgh23/doker.git)
+- [CICD](https://github.com/krgh23/cicd_member.git)
+- [Flutter](https://github.com/krgh23/flutter_lec.git)
+- [ReactNative](https://github.com/krgh23/react_native_lec.git)
 
 ---
 ## 🛠️ Tech Stack
