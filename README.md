@@ -1,70 +1,56 @@
-## 🛠️ Tech Stack
+## 🛠️ 기술 스택
 
-### 🔙 Backend
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Java&message=&color=007396&style=for-the-badge" alt="Java"/>
-  <img src="https://img.shields.io/static/v1?label=Node.js&message=&color=339933&style=for-the-badge" alt="Node.js"/>
-  <img src="https://img.shields.io/static/v1?label=JPA&message=&color=6f5499&style=for-the-badge" alt="JPA"/>
-  <img src="https://img.shields.io/static/v1?label=Spring%20Boot&message=&color=6db33f&style=for-the-badge" alt="Spring Boot"/>
-  <img src="https://img.shields.io/static/v1?label=JSP&message=&color=5382a1&style=for-the-badge" alt="JSP"/>
-  <img src="https://img.shields.io/static/v1?label=Thymeleaf&message=&color=005f0f&style=for-the-badge" alt="Thymeleaf"/>
-</p>
+### 🎨 FE
+- **Language & Libraries:**  
+  <img src="https://img.shields.io/static/v1?label=&message=JavaScript&color=f7df1e&style=flat-square" alt="JavaScript" />  
+  <img src="https://img.shields.io/static/v1?label=&message=React.js&color=61dafb&style=flat-square" alt="React.js" />  
+  <img src="https://img.shields.io/static/v1?label=&message=Bootstrap&color=7952b3&style=flat-square" alt="Bootstrap" />
 
-### 🎨 Frontend
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=JavaScript&message=&color=f7df1e&style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/static/v1?label=CSS&message=&color=1572b6&style=for-the-badge" alt="CSS"/>
-  <img src="https://img.shields.io/static/v1?label=React.js&message=&color=61dafb&style=for-the-badge" alt="React.js"/>
-  <img src="https://img.shields.io/static/v1?label=React%20Native&message=&color=61dafb&style=for-the-badge" alt="React Native"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Flutter&message=&color=02569b&style=for-the-badge" alt="Flutter"/>
-  <img src="https://img.shields.io/static/v1?label=Bootstrap&message=&color=7952b3&style=for-the-badge" alt="Bootstrap"/>
-  <img src="https://img.shields.io/static/v1?label=HTML&message=&color=e34f26&style=for-the-badge" alt="HTML"/>
-</p>
+- **사용 API & Tool:**  
+  <img src="https://img.shields.io/static/v1?label=&message=PortOne&color=343434&style=flat-square" alt="PortOne" />  
+  <img src="https://img.shields.io/static/v1?label=&message=Daum API&color=ffca05&style=flat-square" alt="Daum API" />  
+  <img src="https://img.shields.io/static/v1?label=&message=Swagger&color=85ea2d&style=flat-square" alt="Swagger" />
 
-### 🗃️ Persistence / ORM
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=MyBatis&message=&color=00963f&style=for-the-badge" alt="MyBatis"/>
-</p>
+- **Data Fetching:**  
+  <img src="https://img.shields.io/static/v1?label=&message=Axios&color=5a29e4&style=flat-square" alt="Axios" />
 
-### 📚 Library
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Lombok&message=&color=ea2845&style=for-the-badge" alt="Lombok"/>
-  <img src="https://img.shields.io/static/v1?label=Jsoup&message=&color=ba1f03&style=for-the-badge" alt="Jsoup"/>
-</p>
+- **Editor:**  
+  <img src="https://img.shields.io/static/v1?label=&message=Quill&color=0077b5&style=flat-square" alt="Quill" />
 
-### 🗄️ Database
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=MySQL&message=&color=4479a1&style=for-the-badge" alt="MySQL"/>
-</p>
+- **Repo & CI/CD:**  
+  <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=flat-square" alt="GitHub" />  
+  <img src="https://img.shields.io/static/v1?label=&message=SourceTree&color=0046ad&style=flat-square" alt="SourceTree" />
 
-### 🔗 API
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=PortOne&message=&color=343434&style=for-the-badge" alt="PortOne"/>
-  <img src="https://img.shields.io/static/v1?label=Daum%20API&message=&color=ffca05&style=for-the-badge" alt="Daum API"/>
-  <img src="https://img.shields.io/static/v1?label=Swagger&message=&color=85ea2d&style=for-the-badge" alt="Swagger"/>
-</p>
+- **Design Tools:**  
+  <img src="https://img.shields.io/static/v1?label=&message=Balsamiq&color=000000&style=flat-square" alt="Balsamiq" />
 
-### 🧰 Tools
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Balsamiq&message=&color=000000&style=for-the-badge" alt="Balsamiq"/>
-  <img src="https://img.shields.io/static/v1?label=Trello&message=&color=0079bf&style=for-the-badge" alt="Trello"/>
-  <img src="https://img.shields.io/static/v1?label=VS%20Code&message=&color=007acc&style=for-the-badge" alt="VS Code"/>
-  <img src="https://img.shields.io/static/v1?label=MobaXterm&message=&color=00c0c0&style=for-the-badge" alt="MobaXterm"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Notion&message=&color=000000&style=for-the-badge" alt="Notion"/>
-  <img src="https://img.shields.io/static/v1?label=ERD%20Cloud&message=&color=3399cc&style=for-the-badge" alt="ERD Cloud"/>
-  <img src="https://img.shields.io/static/v1?label=Google%20Sheets&message=&color=34a853&style=for-the-badge" alt="Google Sheets"/>
-  <img src="https://img.shields.io/static/v1?label=STS4&message=&color=f05a22&style=for-the-badge" alt="STS4"/>
-  <img src="https://img.shields.io/static/v1?label=SourceTree&message=&color=0046ad&style=for-the-badge" alt="SourceTree"/>
-</p>
+### 🔙 BE
+- **Framework & Security:**  
+  <img src="https://img.shields.io/static/v1?label=&message=Spring Boot&color=6db33f&style=flat-square" alt="Spring Boot" />  
+  <img src="https://img.shields.io/static/v1?label=&message=Spring Security&color=6fbf73&style=flat-square" alt="Spring Security" />
 
-### ⚙️ DevOps
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=Docker&message=&color=2496ed&style=for-the-badge" alt="Docker"/>
-  <img src="https://img.shields.io/static/v1?label=GitHub&message=&color=181717&style=for-the-badge" alt="GitHub"/>
-  <img src="https://img.shields.io/static/v1?label=AWS&message=&color=ff9900&style=for-the-badge" alt="AWS"/>
-  <img src="https://img.shields.io/static/v1?label=Maven&message=&color=c71a36&style=for-the-badge" alt="Maven"/>
-</p>
+- **Language:**  
+  <img src="https://img.shields.io/static/v1?label=&message=Java 17&color=007396&style=flat-square" alt="Java 17" />
+
+- **Database & ORM:**  
+  <img src="https://img.shields.io/static/v1?label=&message=MySQL&color=4479a1&style=flat-square" alt="MySQL" />  
+  <img src="https://img.shields.io/static/v1?label=&message=JPA (Hibernate)&color=6f5499&style=flat-square" alt="JPA" />  
+  <img src="https://img.shields.io/static/v1?label=&message=MyBatis&color=00963f&style=flat-square" alt="MyBatis" />
+
+- **Code Test & API Test:**  
+  <img src="https://img.shields.io/static/v1?label=&message=JUnit5&color=25a162&style=flat-square" alt="JUnit5" />  
+  <img src="https://img.shields.io/static/v1?label=&message=Postman&color=ff6c37&style=flat-square" alt="Postman" />
+
+- **Build & Deploy:**  
+  <img src="https://img.shields.io/static/v1?label=&message=Docker&color=2496ed&style=flat-square" alt="Docker" />  
+  <img src="https://img.shields.io/static/v1?label=&message=AWS EC2&color=ff9900&style=flat-square" alt="AWS EC2" />  
+  <img src="https://img.shields.io/static/v1?label=&message=Maven&color=c71a36&style=flat-square" alt="Maven" />
+
+### 🗄️ 기타 도구
+- <img src="https://img.shields.io/static/v1?label=&message=VS%20Code&color=007acc&style=flat-square" alt="VS Code" />  
+- <img src="https://img.shields.io/static/v1?label=&message=MobaXterm&color=00c0c0&style=flat-square" alt="MobaXterm" />  
+- <img src="https://img.shields.io/static/v1?label=&message=Notion&color=000000&style=flat-square" alt="Notion" />  
+- <img src="https://img.shields.io/static/v1?label=&message=ERD%20Cloud&color=3399cc&style=flat-square" alt="ERD Cloud" />  
+- <img src="https://img.shields.io/static/v1?label=&message=Google%20Sheets&color=34a853&style=flat-square" alt="Google Sheets" />  
+- <img src="https://img.shields.io/static/v1?label=&message=STS4&color=f05a22&style=flat-square" alt="STS4" />
+
