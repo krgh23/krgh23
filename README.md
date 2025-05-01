@@ -21,7 +21,7 @@
 ---
 
 ## Project
-- [BukJack](https://github.com/krgh23/Bookjuk_EC2)
+- [BookJuk](https://github.com/krgh23/Bookjuk_EC2)
 - [Semi](https://github.com/krgh23/SemiA-Public)
 
 ---
