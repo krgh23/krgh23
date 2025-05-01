@@ -40,7 +40,7 @@
 ### 🔗 API
 <p>
   <img src="https://img.shields.io/static/v1?label=&message=PortOne&color=343434&style=flat-square" alt="PortOne" />, 
-  <img src="https://img.shields.io/static/v1?label=&message=Daum%20주소%20API&color=ffca05&style=flat-square" alt="Daum 주소 API" />, 
+  <img src="https://img.shields.io/static/v1?label=&message=Daum%20Addr%20API&color=ffca05&style=flat-square" alt="Daum Addr API" />, 
   <img src="https://img.shields.io/static/v1?label=&message=Swagger&color=85ea2d&style=flat-square" alt="Swagger" />
 </p>
 
