@@ -18,7 +18,6 @@
 ## 2. 🎨 프론트엔드 개발  
 - **HTML5 / CSS3 / JavaScript**: 기본적인 UI/UX 구현  
 - **React**: 컴포넌트 기반 동적 UI 개발  
-- **Flutter**: 크로스 플랫폼 앱 프론트 개발  
 
 ## 3. ☁️ DevOps & 인프라  
 - **AWS (EC2, S3, RDS)**: 배포 및 자원 관리  
