@@ -5,18 +5,31 @@
 
 ---
 
-실무 중심의 개발자로서 다음과 같은 경험을 쌓아 왔습니다  
+# 🧑‍💻 기술 스택  
+**백엔드 중심의 풀스택 개발 역량 보유**
 
-- **DAO & MyBatis**  
-  Spring Framework(Legacy) 위에서 Mapper XML을 직접 설계·작성하며, 효율적인 데이터 액세스 레이어를 구현함  
-- **JSP 기반 블로그 시스템**  
-  게시글 CRUD, 트리 구조 댓글 등록·정렬 처리, Jsoup 활용 이미지 태그 파싱 및 첨부 파일 정보 추출 기능을 완성  
-- **SPA 이커머스 플랫폼**  
-  Spring Boot + JPA로 견고한 REST API를 설계하고, React.js로 프론트엔드를 구현하여 사용자에게 매끄러운 쇼핑 경험 제공  
-- **보안·결제 통합**  
-  Spring Security를 통한 인증·인가 체계를 도입하고, PortOne API 연동 결제 시스템을 안정적으로 구축  
+## 1. 🔧 백엔드 개발  
+- **Java**: 객체지향 설계 및 구현  
+- **Spring / Spring Boot**: MVC 아키텍처, RESTful API 개발  
+- **Eclipse**: Java 및 Spring Boot 개발 환경  
+- **MySQL / MyBatis**: 데이터 모델링, 쿼리 최적화  
+- **JPA / Hibernate**: ORM 기반 개발 경험  
 
-복잡한 비즈니스 로직을 **명확히 분리**하고, 프론트엔드와 백엔드를 **유기적으로 연결**하는 아키텍처 설계를 가장 큰 강점으로 삼고 있습니다  
+## 2. 🎨 프론트엔드 개발  
+- **HTML5 / CSS3 / JavaScript**: 기본적인 UI/UX 구현  
+- **React**: 컴포넌트 기반 동적 UI 개발  
+- **Flutter**: 크로스 플랫폼 앱 프론트 개발  
+
+## 3. ☁️ DevOps & 인프라  
+- **AWS (EC2, S3, RDS)**: 배포 및 자원 관리  
+- **Docker**: 컨테이너 환경 구축 및 배포 자동화  
+- **Linux**: 서버 관리 및 쉘 명령어 활용  
+
+## 4. 🤝 협업 및 개발 도구  
+- **Git / GitHub**: 형상 관리, 협업 경험  
+- **Trello / Slack**: 프로젝트 관리 및 커뮤니케이션  
+- **CI/CD**: GitHub Actions, Jenkins 활용한 배포 자동화
+
 
 ---
 
