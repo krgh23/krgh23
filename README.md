@@ -34,7 +34,7 @@
 
 ## Project
 - [BookJuk](https://github.com/krgh23/Bookjuk_EC2)
-- [Semi](https://github.com/krgh23/SemiA-Public)
+- [Online Learning Platform](https://github.com/krgh23/SemiA-Public)
 
 ---
 
