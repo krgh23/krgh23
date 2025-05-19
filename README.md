@@ -19,7 +19,7 @@
 - **HTML5 / CSS3 / JavaScript**: 기본적인 UI/UX 구현  
 - **React**: 컴포넌트 기반 동적 UI 개발  
 
-## 3. ☁️ DevOps & 인프라  
+## 3. ☁️ 인프라  
 - **AWS (EC2, S3, RDS)**: 배포 및 자원 관리  
 - **Docker**: 컨테이너 환경 구축 및 배포 자동화  
 - **Linux**: 서버 관리 및 쉘 명령어 활용  
