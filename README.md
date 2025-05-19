@@ -101,12 +101,10 @@
 <p>
   <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Balsamiq%20Cloud&color=000000&style=flat-square" alt="Balsamiq Cloud" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Trello&color=0079bf&style=flat-square" alt="Trello" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=VS%20Code&color=007acc&style=flat-square" alt="VS Code" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?label=&message=MobaXterm&color=00c0c0&style=flat-square" alt="MobaXterm" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Notion&color=000000&style=flat-square" alt="Notion" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?label=&message=ERD%20Cloud&color=3399cc&style=flat-square" alt="ERD Cloud" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Google%20Sheets&color=34a853&style=flat-square" alt="Google Sheets" /></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Spring%20Tool%20Suite%204&color=f05a22&style=flat-square" alt="Spring Tool Suite 4" /></a>
   <a href="#"><img src="https://img.shields.io/static/v1?label=&message=SourceTree&color=0046ad&style=flat-square" alt="SourceTree" /></a>
 </p>
 
