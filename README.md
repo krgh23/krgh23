@@ -12,15 +12,14 @@
 - **Java**: 객체지향 설계 및 구현  
 - **Spring / Spring Boot**: MVC 아키텍처, RESTful API 개발  
 - **Eclipse**: Java 및 Spring Boot 개발 환경  
-- **MySQL / MyBatis**: 데이터 모델링, 쿼리 최적화  
-- **JPA / Hibernate**: ORM 기반 개발 경험  
-
+- **MySQL / MyBatis / JPA **: 데이터 모델링, 쿼리 최적화, ORM 기반 개발 경험
+  
 ## 2. 🎨 프론트엔드 개발  
 - **HTML5 / CSS3 / JavaScript**: 기본적인 UI/UX 구현  
 - **React**: 컴포넌트 기반 동적 UI 개발  
 
 ## 3. ☁️ 인프라  
-- **AWS (EC2, S3, RDS)**: 배포 및 자원 관리  
+- **AWS (EC2)**: 배포 및 자원 관리  
 - **Docker**: 컨테이너 환경 구축 및 배포 자동화  
 - **Linux**: 서버 관리 및 쉘 명령어 활용  
 
